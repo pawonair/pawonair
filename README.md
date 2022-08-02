@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello 👋🏼
+I'm **Pawan Sunuwar**, a `Full Stack Developer` from **Nepal**.
 
-<!--
-**pawanman56/pawanman56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **pawanman56@gmail.com**
+<br/>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan-sunuwar" height="16" width="20"/> <a href="https://linkedin.com/in/pawan-sunuwar" target="blank">/pawan-sunuwar</a>
+<br/>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pawanman56" height="16" width="20"/> <a href="https://twitter.com/pawanman56" target="blank">@pawanman56</a>
+<br/>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pa.won_" height="16" width="20"/> <a href="https://instagram.com/pa.won_" target="blank">@pa.won_</a>
+<br/>
