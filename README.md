@@ -3,8 +3,6 @@ I'm **Pawan Sunuwar**, a `Full Stack Developer` from **Nepal**.
 - Currently pursuing a Master's degree in Computer Science.
 - More than half a decade of experience in full-stack development.
 - Experienced Frontend Developer.
-- Core team member of Facebook Developer Circle: Kathmandu.
-- Core team member of KTMJS.
 - Love Mo:Mo: & Arts.
 
 <hr/>
